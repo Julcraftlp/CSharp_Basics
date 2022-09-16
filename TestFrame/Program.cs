@@ -26,6 +26,7 @@ Console.WriteLine("Press Enter to end");
 Console.ReadLine();
 Console.WindowHeight = 6;
 Console.WindowWidth = 17;
+Console.SetBufferSize(17,6);
 Console.WriteLine(@"      _   _____  ");
 Console.WriteLine(@"     | | |  __ \ ");
 Console.WriteLine(@"     | | | |__) |");
