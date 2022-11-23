@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3DatentypenKonvertierung", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4OperatorenKonvertierung", "4OperatorenKonvertierung\4OperatorenKonvertierung.csproj", "{8B1FBCD7-954E-4EBB-A52D-9CCF67ED9BC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Verzweigungen", "4Verzweigungen\5Verzweigungen.csproj", "{5F4354FC-2424-4AEF-A7B4-B0E228BBA633}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5Verzweigungen", "4Verzweigungen\5Verzweigungen.csproj", "{5F4354FC-2424-4AEF-A7B4-B0E228BBA633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI Rechner", "BMI Rechner\BMI Rechner.csproj", "{CAAD4AFB-9BA7-4814-8D69-5C23260AC244}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treueprämien", "Treueprämien\Treueprämien.csproj", "{F0757E59-FA30-4BD0-8EC6-AE91FF375D95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{5F4354FC-2424-4AEF-A7B4-B0E228BBA633}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F4354FC-2424-4AEF-A7B4-B0E228BBA633}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F4354FC-2424-4AEF-A7B4-B0E228BBA633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAAD4AFB-9BA7-4814-8D69-5C23260AC244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAD4AFB-9BA7-4814-8D69-5C23260AC244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAD4AFB-9BA7-4814-8D69-5C23260AC244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAD4AFB-9BA7-4814-8D69-5C23260AC244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0757E59-FA30-4BD0-8EC6-AE91FF375D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0757E59-FA30-4BD0-8EC6-AE91FF375D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0757E59-FA30-4BD0-8EC6-AE91FF375D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0757E59-FA30-4BD0-8EC6-AE91FF375D95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
